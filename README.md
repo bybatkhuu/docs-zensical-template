@@ -14,9 +14,6 @@ This is a template repository for documentation, wiki and knowledge base using *
 - Documentation
 - Markdown support
 - Static site generator
-- Configuration
-- Scripts
-- CI/CD
 
 ---
 
